@@ -1,0 +1,27 @@
+
+body, html {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  min-height: 100%; // add this rule
+  background-color: #F0F2F5;
+}
+
+//$primary: red;
+
+$blueApp : #1876f2;
+
+.app-panel {
+  padding: 0 0 0 0;
+  margin-top: 10px;
+  border-radius: 5px;
+  background-color: #FFFFFF;
+  border: 1px solid #FCFDFE;
+  margin-bottom: 50px;
+}
+
+.app-title {
+  font-size: 30px;
+  font-weight: 700;
+  color: #3A3B3E;
+}
